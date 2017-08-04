@@ -1,6 +1,6 @@
 # TF2 Random Disguise
 
-One time I saw him behind our lines. As I was trying to get my team to notice him, he disappeared behind an obstacle, and re-appeared disguised as a new class. He did this a few times, and at first I was able to keep track of him, but eventually I had no idea which class he was disguised as. He really threw me off his trail.
+One time I saw a Spy behind our lines. As I was trying to get my team to notice him, he disappeared behind an obstacle, and re-appeared disguised as a new class. He did this a few times, and at first I was able to keep track of him, but eventually I had no idea which class he was disguised as. He really threw me off his trail.
 
 This script generates a random class to disguise as every second, and writes a TF2 script to a file named `randClass.cfg` which will disguise you as the class generated that second.
 
