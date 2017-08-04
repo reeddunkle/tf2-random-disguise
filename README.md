@@ -1,10 +1,21 @@
 # TF2 Random Disguise
 
-One time, playing against a good Spy player, I saw him behind our lines and was trying to get my team to notice him. He disappeared behind something, and re-appeared disguised as a new class. He did this a few times. At first I was able to keep track of him, but by the time I had to focus my attention elsewhere, I realized I had no idea how to find him. He was sure to get a kill.
-
-His changing classes four times or so really threw me off his scent. I had no way of knowing what he'd disguise as next.
+One time I saw him behind our lines. As I was trying to get my team to notice him, he disappeared behind an obstacle, and re-appeared disguised as a new class. He did this a few times, and at first I was able to keep track of him, but eventually I had no idea which class he was disguised as. He really threw me off his trail.
 
 This script generates a random class to disguise as every second, and writes a TF2 script to a file named `randClass.cfg` which will disguise you as the class generated that second.
+
+## Use it
+
+The simplest way to use this would be to add these two lines to your `autoexec.cfg`. Change `ALT` to be the key of your choice:
+
+```
+# autoexec.cfg
+
+alias disguiseRandomEnemy "exec randClass;"
+bind ALT disguiseRandomEnemy
+```
+
+[My setup](https://github.com/reeddunkle/cfg/blob/master/reset.cfg#L13) is a little convoluted because I have this set to "Shift+MOUSE4" (I use MOUSE4 to disguise as last).
 
 ## Setup
 
