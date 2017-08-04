@@ -1,0 +1,20 @@
+{
+  "name": "tf2-random-disguise",
+  "version": "1.0.0",
+  "description": "Write a TF2 cfg script to disguise as a random enemy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "team fortress 2",
+    "Steam scripts",
+    "TF2 spy"
+  ],
+  "author": "Reed Dunkle",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reeddunkle/tf2-random-disguise"
+  }
+}
