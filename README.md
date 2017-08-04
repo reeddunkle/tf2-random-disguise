@@ -73,7 +73,7 @@ You've got to have node installed: <https://nodejs.org/en/download/>
 
 ## Notes
 
-This was more of a exercise than a practical tool. I don't run it because the majority of the time it's needlessly consuming resources. This would be much more powerful if, rather than running this script on an infinite loop, I could generate the `randClass.cfg` contents upon demand.
+This is more of an exercise than a practical tool. I don't run it because the majority of the time it's needlessly consuming resources. This would be much more powerful if, rather than running this script on an infinite loop, I could generate the `randClass.cfg` contents upon demand.
 
 This would also allow me to have a history of the previous classes generated, and I could ensure each time I use the cfg script that I'm disguising as a new class.
 
